@@ -11,13 +11,24 @@ My tenure at IBM Research Australia lasted from July to December 2016. I was
 taken on as an intern for the Infrastructure, Services, and Technologies team
 for the IBM Research Lab in Carlton. Throughout my time in this time, I worked
 on a range of different projects, as well as learned quite a bit about the work
-being performed at the lab. One of my very first projects was to assist the team
-in migrating their repositories from one version control platform (gitlab) to
+being performed at the lab.
+
+One of my very first projects was to assist the team in migrating their repositories from one version control platform (gitlab) to
 another (github). In doing so, I learned about version control using git as well
 as to handle dependencies within code, as some parts of the repositories had to
 be altered to make them compatible with the new version control platform. I also
-attempted to assist another team, specifically the retinal imaging team, in one
-of their projects – to clean up their collection of stereoscopic retinal images
-by removing dust from the camera. However, this project turned out to be very
-time consuming and I was forced to abandon it in favour of my responsibilities
-within my team.
+attempted to assist another group within the lab, specifically the retinal imaging
+team, in one of their projects – to clean up their collection of stereoscopic
+retinal images by removing dust from the camera. However, this project turned
+out to be very time consuming and I was forced to abandon it in favour of my
+responsibilities within my team.
+
+From that point on, I was given the responsibility to create a client for users
+to authenticate against GSA, a file storage system based around NFS on UNIX
+systems. In the process of creating this piece of software, I gained knowledge of
+UNIX systems (specifically RedHat and Debian-based systems), as well as the
+programming language Ruby and a DevOps automation framework known as Chef, which are
+the tools I used to write the software. Initially, the software's scope was limited
+to RedHat/CentOS based environments, but its functionality was soon expanded, and
+with the help of my team members, I was able to create a piece of software that
+could contribute real value to the lab and to the team.
